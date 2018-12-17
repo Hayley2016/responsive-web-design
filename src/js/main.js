@@ -7,3 +7,4 @@ $(document).ready(function() {
         autoplayHoverPause: true
     });
 });
+/*! 不会被压缩的注释 */
